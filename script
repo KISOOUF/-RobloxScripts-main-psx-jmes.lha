@@ -1,0 +1,9 @@
+_G.License = "7ef1e447bdc99c908a02"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+wait(5)
+if game.PlaceId == 6284583030 then
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes-normal.lua"))()
+end
+if game.PlaceId == 10321372166 then
+  loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes-hardcore.lua"))()
+end
