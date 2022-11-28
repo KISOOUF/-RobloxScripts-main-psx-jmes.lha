@@ -1,5 +1,3 @@
-_G.License = "42f1aa3b4de40b3ee326" -- Script Version
-loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))() -- Gui
 wait(5)
 if game.PlaceId == 6284583030 then -- Place ID
   loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes-normal.lua"))() -- GUi shit
